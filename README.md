@@ -3,84 +3,100 @@
 네트워크가 인류의 진보에 기여하고, 네트워크에 의해 인간이 병렬화되지 않은 그 마지막 시대의, 어셈블리 세대 프로그래머의 이야기입니다.
 사유와 읽은 책과 문화, 사회 현상에 대한 글을 모읍니다. 기술, 보안, 투자를 다루는 사람이 그 바깥의 세상을 읽고 기록하는 공간.
 
-글의 정본(전문)은 브런치에 있고, 이 저장소는 색인과 아카이브입니다. → **[브런치](https://brunch.co.kr/@___)**
+글의 정본(전문)은 브런치에 있고, 이 저장소는 색인과 아카이브입니다. → **[브런치](https://brunch.co.kr/@denniskim7)**
 
 > **A · B · C** — Art, Book, Culture.
-> 세 갈래로 세상을 읽습니다.  『A Book on C』에 대한 작은 오마주입니다.
+> 세 갈래로 세상을 읽습니다. 『A Book on C』에 대한 작은 오마주입니다.
 
 By Dennis Kim (김호광) · [GitHub](https://github.com/gameworkerkim) · [LinkedIn](https://www.linkedin.com/in/testcode/)
 
 ---
 
 ## A — Art
-예술과 취향에 대한 기록. → [`/Art`](./Art)
+
+예술과 취향에 대한 기록. → [`/Art`](https://github.com/gameworkerkim/essays/blob/main/Art)
 
 | No. | 제목 | 키워드 | 한 줄 |
-|---|---|---|---|
-| [01](./Art/01.%20Art%20collecting%20when%20to%20start.md) | 미술 컬렉팅, 언제 시작할까? | 미술 시장·유동성·컬렉팅 | 일본 버블기의 교훈으로 읽는 컬렉팅과 과시적 소비의 경계 |
+| --- | ---- | ------ | ----- |
+| [01](https://github.com/gameworkerkim/essays/blob/main/Art/01.%20Art%20collecting%20when%20to%20start.md) | 미술 컬렉팅, 언제 시작할까? | 미술 시장·유동성·컬렉팅 | 일본 버블기의 교훈으로 읽는 컬렉팅과 과시적 소비의 경계 |
 
 ## B — Book Review
-읽은 책에 대한 서평. → [`/BookReview`](./BookReview)
+
+읽은 책에 대한 서평. → [`/BookReview`](https://github.com/gameworkerkim/essays/blob/main/BookReview)
 
 | No. | 제목 | 다룬 책 | 한 줄 |
-|---|---|---|---|
-| [01](./BookReview/01.Eichmann%20banality%20of%20evil.md) | 악의 평범성과 깨어있는 시민의 필요성 | 한나 아렌트 『예루살렘의 아이히만』 | 12.3 계엄과 밀그램 실험으로 다시 읽는 '생각하지 않음'의 위험 |
+| --- | ---- | ------- | ----- |
+| [01](https://github.com/gameworkerkim/essays/blob/main/BookReview/01.Eichmann%20banality%20of%20evil.md) | 악의 평범성과 깨어있는 시민의 필요성 | 한나 아렌트 『예루살렘의 아이히만』 | 12.3 계엄과 밀그램 실험으로 다시 읽는 '생각하지 않음'의 위험 |
+| [02](https://github.com/gameworkerkim/essays/blob/main/BookReview/02.Foundation%20Psychohistory%20AI.md) | 예측할 수 없는 미래, 조종당하는 인간 | 아이작 아시모프 『파운데이션』 | 심리역사학에서 AI 인지 조정으로 — 예측의 과학에서 조정의 공학으로 |
 
 ## C — Culture & Taste
-문화와 사회 현상에 대한 읽기. → [`/Culture_Taste`](./Culture_Taste)
+
+문화와 사회 현상에 대한 읽기. → [`/Culture_Taste`](https://github.com/gameworkerkim/essays/blob/main/Culture_Taste)
 
 | No. | 제목 | 키워드 | 한 줄 |
-|---|---|---|---|
-| [01](./Culture_Taste/01.Fukushima%20shared%20folder.md) | 공유폴더 속의 기밀 - 후쿠시마가 다시 알려준 '조직이 잊는 법' | 후쿠시마·조직문화·정보관리 | 습관화·현재 편향·일탈의 정상화로 읽는, 조직이 위험을 잊는 네 겹의 메커니즘 |
-| [02](./Culture_Taste/02.Column%20ai%20writes%20code%20humans%20ship%20it.md) | AI는 코드를 쓰게 하지만, 돈을 벌게 하지는 않는다 | AI·생산성·병목·투자 | 커밋은 180% 늘었지만 릴리스는 30%, 약한 고리 가설로 읽는 AI 시대의 진짜 병목 |
+| --- | ---- | ------ | ----- |
+| [01](https://github.com/gameworkerkim/essays/blob/main/Culture_Taste/01.Fukushima%20shared%20folder.md) | 공유폴더 속의 기밀 - 후쿠시마가 다시 알려준 '조직이 잊는 법' | 후쿠시마·조직문화·정보관리 | 습관화·현재 편향·일탈의 정상화로 읽는, 조직이 위험을 잊는 네 겹의 메커니즘 |
+| [02](https://github.com/gameworkerkim/essays/blob/main/Culture_Taste/02.Column%20ai%20writes%20code%20humans%20ship%20it.md) | AI는 코드를 쓰게 하지만, 돈을 벌게 하지는 않는다 | AI·생산성·병목·투자 | 커밋은 180% 늘었지만 릴리스는 30%, 약한 고리 가설로 읽는 AI 시대의 진짜 병목 |
 
 ---
 
 ## 첫 에세이 — 《예루살렘의 아이히만》 서평
 
-**[악의 평범성과 깨어있는 시민의 필요성](./BookReview/01.Eichmann%20banality%20of%20evil.md)**
+**[악의 평범성과 깨어있는 시민의 필요성](https://github.com/gameworkerkim/essays/blob/main/BookReview/01.Eichmann%20banality%20of%20evil.md)**
 
 한나 아렌트가 아이히만 재판에서 마주한 것은 광기 어린 악마가 아니라 진부한 관료였다. 악은 특별한 사디즘이 아니라 **'생각하지 않음(thoughtlessness)'** 에서 비롯될 수 있다 — 이 '악의 평범성'이라는 통찰을, 2024년 12.3 비상계엄이라는 우리의 현재로 끌어와 다시 읽는다.
 
 밀그램의 복종 실험, 스탠퍼드 교도소 실험, 가스라이팅, 학습된 무기력까지 — 평범한 사람이 어떻게 악의 도구가 되는지를 심리학으로 짚고, 그 그림자를 걷어내는 것은 영웅이 아니라 **자신의 양심과 대화하기를 멈추지 않는 평범한 시민의 용기**임을 이야기한다. 글 말미에는 한나 아렌트의 생애와 주요 저작 소개를 덧붙였다.
 
-→ **[전문 읽기](./BookReview/01.Eichmann%20banality%20of%20evil.md)**
+→ **[전문 읽기](https://github.com/gameworkerkim/essays/blob/main/BookReview/01.Eichmann%20banality%20of%20evil.md)**
+
+---
+
+## Book Review 에세이 — 예측할 수 없는 미래, 조종당하는 인간
+
+**[예측할 수 없는 미래, 조종당하는 인간 — 인공지능은 해리 셀던의 꿈을 이룰 수 있을까](https://github.com/gameworkerkim/essays/blob/main/BookReview/02.Foundation%20Psychohistory%20AI.md)**
+
+아이작 아시모프의 『파운데이션』 속 심리역사학은 개인은 예측할 수 없어도 수조 인구의 거시적 흐름은 수학으로 예측할 수 있다고 믿었다. 그러나 소설 속에서조차 '뮬'이라는 단 하나의 변수가 셀던의 예언을 궤도에서 이탈시켰고, 팬데믹과 전쟁과 금융 위기를 겪은 현실의 우리도 예측의 실패를 반복해서 목격했다.
+
+이 글은 질문을 뒤집는다. **AI가 미래를 '예측'하지 못한다고 해서, 미래를 '변경'할 수 없는 것은 아니다.** LLM 에이전트가 SNS와 담론 공간에서 수십 년의 인식 변화를 수년으로 압축하거나, 반대로 특정 집단에 대한 적대를 서서히 정당화시키는 **보이지 않는 인지 조정**의 시나리오 — 그리고 이를 탐지해야 할 국가가 동시에 '조정자'가 될 수 있다는 역설을 짚는다. 글 말미에는 아이작 아시모프의 생애와 주요 저작 소개를 덧붙였다.
+
+→ **[전문 읽기](https://github.com/gameworkerkim/essays/blob/main/BookReview/02.Foundation%20Psychohistory%20AI.md)**
 
 ---
 
 ## Art 에세이 — 미술 컬렉팅, 언제 시작할까?
 
-**[미술 컬렉팅, 언제 시작할까?](./Art/01.%20Art%20collecting%20when%20to%20start.md)**
+**[미술 컬렉팅, 언제 시작할까?](https://github.com/gameworkerkim/essays/blob/main/Art/01.%20Art%20collecting%20when%20to%20start.md)**
 
 1인당 국민소득 3만 달러와 자가 주택 보유는 미술품 수집이 본격화되는 경제적 임계점이다. 코로나19 시절 넘쳐난 유동성이 한국 미술 시장을 2020년 3,291억 원에서 2021년 9,223억 원으로 부풀렸다가, 지금은 다시 썰물처럼 빠져나가고 있다.
 
 이 글은 1980년대 말 **일본 버블기**의 광기 — 반 고흐 〈가셰 박사의 초상〉을 8,250만 달러에 사들이고 "죽으면 함께 화장해 달라"던 사이토 료에이의 일화 — 를 거울 삼아 묻는다. 그 많은 그림을 사들인 사람들은 과연 '컬렉터'였는가. 베블런의 『유한계급론』과 과시적 소비를 짚으며, **유동성이 아닌 컬렉터 중심으로 재편되어야 할 시장**과 '진짜 컬렉터의 시간'을 이야기한다.
 
-→ **[전문 읽기](./Art/01.%20Art%20collecting%20when%20to%20start.md)**
+→ **[전문 읽기](https://github.com/gameworkerkim/essays/blob/main/Art/01.%20Art%20collecting%20when%20to%20start.md)**
 
 ---
 
 ## Culture & Taste 에세이 — 공유폴더 속의 기밀
 
-**[공유폴더 속의 기밀 - 후쿠시마가 다시 알려준 '조직이 잊는 법'](./Culture_Taste/01.Fukushima%20shared%20folder.md)**
+**[공유폴더 속의 기밀 - 후쿠시마가 다시 알려준 '조직이 잊는 법'](https://github.com/gameworkerkim/essays/blob/main/Culture_Taste/01.Fukushima%20shared%20folder.md)**
 
 2026년 7월, 일본 원자력규제위원회는 도쿄전력 후쿠시마 원전의 대테러 기밀문서가 권한 없는 직원도 열람 가능한 사내 공유폴더에 방치돼 왔다고 통보했다. 해킹도 내부 고발도 아닌, 아무도 위험하다고 느끼지 않은 채 장기간 이어진 방치였다.
 
 이 글은 왜 조직이 같은 실패를 반복하는지를 네 겹으로 짚는다. 느리고 추상적인 위험 앞에 침묵하는 뇌의 **습관화**, 눈앞의 편의를 택하게 만드는 **현재 편향**과 다이앤 본의 **일탈의 정상화**, 침묵을 미덕으로 만드는 일본 특유의 혼네·다테마에와 '공기를 읽는' 문화, 그리고 안전의 노하우를 전수할 사람 자체가 사라지는 **인구 감소**의 그늘. 후쿠시마의 이야기이자, 더 가파른 인구 절벽을 향해 가는 한국에 던지는 질문이기도 하다.
 
-→ **[전문 읽기](./Culture_Taste/01.Fukushima%20shared%20folder.md)**
+→ **[전문 읽기](https://github.com/gameworkerkim/essays/blob/main/Culture_Taste/01.Fukushima%20shared%20folder.md)**
 
 ---
 
 ## Culture & Taste 에세이 — AI는 코드를 쓰게 하지만, 돈을 벌게 하지는 않는다
 
-**[AI는 코드를 쓰게 하지만, 돈을 벌게 하지는 않는다](./Culture_Taste/02.Column%20ai%20writes%20code%20humans%20ship%20it.md)**
+**[AI는 코드를 쓰게 하지만, 돈을 벌게 하지는 않는다](https://github.com/gameworkerkim/essays/blob/main/Culture_Taste/02.Column%20ai%20writes%20code%20humans%20ship%20it.md)**
 
 AI 코딩 도구로 커밋 수는 최대 180% 늘었지만, 실제 출시(release)는 30%만 늘었다. 2026년 NBER 워킹페이퍼 "Writing Code vs. Shipping Code"가 데이터로 보여준 이 격차를, 20세기 초 마차에서 자동차로의 전환이라는 오래된 교훈에 겹쳐 읽는다.
 
 소프트웨어 생산의 강도는 가장 약한 고리가 결정한다는 **약한 고리 가설**, AI와 인간이 대체재가 아닌 보완재임을 말하는 **대체탄력성 0.25**, 그리고 손실회피·현상유지 편향으로 설명되는 "더 많이 쓰여졌지만 더 많이 쓰이지는 않은" 앱 시장. 중국산 와인잔과 아크테릭스의 사례를 거쳐, **병목은 인간이며 수익과 기회도 인간에게 있다**는 결론에 이른다.
 
-→ **[전문 읽기](./Culture_Taste/02.Column%20ai%20writes%20code%20humans%20ship%20it.md)**
+→ **[전문 읽기](https://github.com/gameworkerkim/essays/blob/main/Culture_Taste/02.Column%20ai%20writes%20code%20humans%20ship%20it.md)**
 
 ---
 
