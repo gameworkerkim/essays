@@ -28,6 +28,7 @@ By Dennis Kim (김호광) · [GitHub](https://github.com/gameworkerkim) · [Link
 | --- | ---- | ------- | ----- |
 | [01](https://github.com/gameworkerkim/essays/blob/main/BookReview/01.Eichmann%20banality%20of%20evil.md) | 악의 평범성과 깨어있는 시민의 필요성 | 한나 아렌트 『예루살렘의 아이히만』 | 12.3 계엄과 밀그램 실험으로 다시 읽는 '생각하지 않음'의 위험 |
 | [02](https://github.com/gameworkerkim/essays/blob/main/BookReview/02.Foundation%20Psychohistory%20AI.md) | 예측할 수 없는 미래, 조종당하는 인간 | 아이작 아시모프 『파운데이션』 | 심리역사학에서 AI 인지 조정으로 — 예측의 과학에서 조정의 공학으로 |
+| [03](https://github.com/gameworkerkim/essays/blob/main/BookReview/03.Black%20Swan_Black%20Scholes.md) | 랜덤워크의 죽음, 그리고 블랙-숄즈의 역설 | 탈레브 『블랙 스완』·블랙-숄즈 방정식 | SK하이닉스 ADR 51% 괴리율로 보는, 모델이 시장을 설명하는가 시장이 모델을 답습하는가 |
 
 ## C — Culture & Taste
 
@@ -37,6 +38,9 @@ By Dennis Kim (김호광) · [GitHub](https://github.com/gameworkerkim) · [Link
 | --- | ---- | ------ | ----- |
 | [01](https://github.com/gameworkerkim/essays/blob/main/Culture_Taste/01.Fukushima%20shared%20folder.md) | 공유폴더 속의 기밀 - 후쿠시마가 다시 알려준 '조직이 잊는 법' | 후쿠시마·조직문화·정보관리 | 습관화·현재 편향·일탈의 정상화로 읽는, 조직이 위험을 잊는 네 겹의 메커니즘 |
 | [02](https://github.com/gameworkerkim/essays/blob/main/Culture_Taste/02.Column%20ai%20writes%20code%20humans%20ship%20it.md) | AI는 코드를 쓰게 하지만, 돈을 벌게 하지는 않는다 | AI·생산성·병목·투자 | 커밋은 180% 늘었지만 릴리스는 30%, 약한 고리 가설로 읽는 AI 시대의 진짜 병목 |
+| [03](https://github.com/gameworkerkim/essays/blob/main/Culture_Taste/03.%20End%20of%20OpenSource%20Age.md) | 코드의 바벨탑, AI가 갉아먹는 창조와 공감의 능력 | 오픈소스·창의성·선물경제 | AI가 쏟아낸 저품질 기여가 오픈소스의 느린 대화와 창발적 혁신을 말려 죽이고 있다 |
+| [04](https://github.com/gameworkerkim/essays/blob/main/Culture_Taste/04.%20Jimenshi%20and%20me.md) | 사기꾼은 바보를 노리지 않는다 | 세키스이하우스·지면사·행동경제학 | 500억 사기와 32억 사기의 공통분모 — 절박함은 IQ를 뚫는다 |
+| [05](https://github.com/gameworkerkim/essays/blob/main/Culture_Taste/05.Walmart_Paradox_Chinese_AI.md) | 월마트의 역설, 중국산 AI에서 반복되다 | 중국AI·오픈웨이트·공급망보안 | 명분은 애국, 구조는 가격 — 오픈라우터 1~4위가 중국산인 이유 |
 
 ---
 
@@ -97,6 +101,46 @@ AI 코딩 도구로 커밋 수는 최대 180% 늘었지만, 실제 출시(releas
 소프트웨어 생산의 강도는 가장 약한 고리가 결정한다는 **약한 고리 가설**, AI와 인간이 대체재가 아닌 보완재임을 말하는 **대체탄력성 0.25**, 그리고 손실회피·현상유지 편향으로 설명되는 "더 많이 쓰여졌지만 더 많이 쓰이지는 않은" 앱 시장. 중국산 와인잔과 아크테릭스의 사례를 거쳐, **병목은 인간이며 수익과 기회도 인간에게 있다**는 결론에 이른다.
 
 → **[전문 읽기](https://github.com/gameworkerkim/essays/blob/main/Culture_Taste/02.Column%20ai%20writes%20code%20humans%20ship%20it.md)**
+
+---
+
+## Book Review 에세이 — 랜덤워크의 죽음, 그리고 블랙-숄즈의 역설
+
+**[랜덤워크의 죽음, 그리고 블랙-숄즈의 역설 — 블랙 스완은 왜 10년마다 오는가](https://github.com/gameworkerkim/essays/blob/main/BookReview/03.Black%20Swan_Black%20Scholes.md)**
+
+블랙-숄즈 방정식을 "엑셀이지 오라클이 아니다"라고 말한다. 2026년 SK하이닉스 ADR 괴리율 51%라는 살아있는 실험실에서부터, 1987년 블랙 먼데이 이후 출현한 변동성 스마일, LTCM의 붕괴, 탈레브의 블랙 스완, 그리고 "100년에 한 번의 재앙이 왜 10년마다 오는가"까지 — 금융공학의 가장 위대한 방정식이 품은 역설을 시장의 현장에서 읽는다.
+
+→ **[전문 읽기](https://github.com/gameworkerkim/essays/blob/main/BookReview/03.Black%20Swan_Black%20Scholes.md)**
+
+---
+
+## Culture & Taste 에세이 — 코드의 바벨탑
+
+**[코드의 바벨탑, AI가 갉아먹는 창조와 공감의 능력](https://github.com/gameworkerkim/essays/blob/main/Culture_Taste/03.%20End%20of%20OpenSource%20Age.md)**
+
+AI가 쏟아내는 저품질 기여가 작은 오픈소스 프로젝트를 '리뷰 지옥'으로 몰아넣고 있다. 노력 정당화·앵커링 효과·선물 경제의 붕괴·방관자 효과를 빌려, 편의성이라는 이름으로 우리가 반납해버린 **느린 대화와 창발적 혁신**을 이야기한다.
+
+→ **[전문 읽기](https://github.com/gameworkerkim/essays/blob/main/Culture_Taste/03.%20End%20of%20OpenSource%20Age.md)**
+
+---
+
+## Culture & Taste 에세이 — 사기꾼은 바보를 노리지 않는다
+
+**[사기꾼은 바보를 노리지 않는다 — 세키스이하우스 지면사 사건, 그리고 나의 이야기](https://github.com/gameworkerkim/essays/blob/main/Culture_Taste/04.%20Jimenshi%20and%20me.md)**
+
+넷플릭스 '도쿄 사기꾼들'의 실화인 2017년 세키스이하우스 55억 엔 사기 사건과, 2026년 본인이 당한 32억 원 재판 청탁 사기의 공통분모를 행동경제학으로 해부한다. 권위 편향·희소성 휴리스틱·손실 회피·매몰비용·확증 편향 — **사기는 지능을 공격하지 않는다, 상황을 공격한다.** 침해사고 보고서처럼 쓴, 가장 개인적인 글.
+
+→ **[전문 읽기](https://github.com/gameworkerkim/essays/blob/main/Culture_Taste/04.%20Jimenshi%20and%20me.md)**
+
+---
+
+## Culture & Taste 에세이 — 월마트의 역설, 중국산 AI에서 반복되다
+
+**[월마트의 역설, 중국산 AI에서 반복되다](https://github.com/gameworkerkim/essays/blob/main/Culture_Taste/05.Walmart_Paradox_Chinese_AI.md)**
+
+1985년 샘 월튼의 "Buy American" 캠페인과 함께 시작한 이 글은, 오픈라우터 사용량 1~4위가 전부 중국산인 2026년의 AI 시장에서 같은 역설이 반복되고 있음을 보여준다. 딥시크·문샷·즈푸AI·알리바바 — API 호환성과 57배의 가격 차이, 그리고 부즈앨런이 실험으로 입증한 **보안이라는 청구서**까지. "명분은 애국이었지만 구조는 가격이 결정했다"는 월마트의 교훈 위에, 오픈웨이트 총람이라는 실무적 부록을 얹었다.
+
+→ **[전문 읽기](https://github.com/gameworkerkim/essays/blob/main/Culture_Taste/05.Walmart_Paradox_Chinese_AI.md)**
 
 ---
 
